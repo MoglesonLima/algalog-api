@@ -15,3 +15,9 @@ The following guides illustrate how to use some features concretely:
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
+
+
+### Códigos de Status HTTP
+Esse site é uma referência a todos os códigos de status HTTP com suas definições e exemplos de código em algumas linguagens/frameworks.
+
+* [Link Status](https://www.httpstatus.com.br/)
